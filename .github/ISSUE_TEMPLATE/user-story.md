@@ -18,3 +18,7 @@ Sum the changes involved.
 **Database and schema information**
 
 Does this change require any schema changes to the database? If yes, describe it in detail.
+
+**Additional requirements**
+
+Does this change require any special attention or any additional notes for the development of this story?
